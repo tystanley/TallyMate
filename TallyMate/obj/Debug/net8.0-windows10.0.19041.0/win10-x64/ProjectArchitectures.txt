@@ -1,0 +1,1 @@
+C:\Users\ptyle\source\repos\TallyMate\TallyMate\TallyMate.csproj;x64
