@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TallyMate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6b51acebe33143a942021a457c21fe7911c3fe5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TallyMate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TallyMate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -28,12 +28,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = TallyMate.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/ptyle/source/repos/TallyMate/TallyMate/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = TallyMate.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
-
 [C:/Users/ptyle/source/repos/TallyMate/TallyMate/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TallyMate.Resources.Styles.Colors.xaml
@@ -45,3 +39,33 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TallyMate.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/ptyle/source/repos/TallyMate/TallyMate/Views/CalendarPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TallyMate.Views.CalendarPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CalendarPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CalendarPage.xaml
+
+[C:/Users/ptyle/source/repos/TallyMate/TallyMate/Views/LeaderboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TallyMate.Views.LeaderboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LeaderboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LeaderboardPage.xaml
+
+[C:/Users/ptyle/source/repos/TallyMate/TallyMate/Views/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TallyMate.Views.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SettingsPage.xaml
+
+[C:/Users/ptyle/source/repos/TallyMate/TallyMate/Views/StatsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TallyMate.Views.StatsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StatsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StatsPage.xaml
+
+[C:/Users/ptyle/source/repos/TallyMate/TallyMate/Views/TallyPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TallyMate.Views.TallyPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TallyPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TallyPage.xaml
